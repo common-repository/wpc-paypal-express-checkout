@@ -1,0 +1,18 @@
+.wpc_ec_button_div { width: auto; height: auto; float: left; clear: both; margin: 5px 0 5px 0; border: none;padding: 0; }
+a.single_add_to_cart_button.cls-wpc-ec-btn:hover { border: none !important;}
+.wpc_ec_cc_button_div { width: auto; height: auto;  float: left; clear: both; border: none; padding: 0;}
+input.single_add_to_cart_button {
+    width: auto;
+    height: auto;
+    float: left;
+    clear: both;
+    margin: 5px 0 5px 0;
+    border: none;
+    padding: 0;
+}
+div#wpc_ec_txt {
+    float: left;
+    clear: both;
+    padding: 5px;
+}
+/*.wpc-hidden-term {display:none !important;}*/
